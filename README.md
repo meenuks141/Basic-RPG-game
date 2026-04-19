@@ -28,7 +28,7 @@ A simple 2D RPG game where the player can move, attack enemies, manage health, a
 ![Gameplay Screenshot](Screenshots/prg2.png)
 
 ### UI
-![UI Screenshot](screenshots/prg3.png)
+![UI Screenshot](Screenshots/prg3.png)
 
 
 ## What I Learned
